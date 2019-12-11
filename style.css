@@ -1,0 +1,57 @@
+body {
+
+background-image: url(http://cityunit.co/wp-content/uploads/2019/02/light-green-tumblr-wallpapers-for-light-green-background-light-green-pics-tumblr-tumblr-background-color.jpg); /* Slika preuzet sa googla images kao primer */
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+#h1 {
+
+    text-align: center;
+    border: dotted 3px;
+    margin-bottom: 3px;
+    
+}
+
+p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px;
+}
+
+.c1 {
+
+    text-align: justify;
+    font-size: 19px;
+
+
+}
+
+#tp1 {
+
+    margin-left: 40px;
+
+}
+
+
+#t1 {
+    
+    margin-left: 40px;
+    margin-right: 1100px;
+    line-height: 23px;
+    border: dotted 4px;
+    border-radius: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    font-style: italic;
+    font-weight: bold;
+    
+}
+#b1 {
+    border-style: dashed;
+    padding-left: 40px;
+    padding-right: 40px; 
+    
+    
+}
